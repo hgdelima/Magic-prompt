@@ -1,0 +1,17 @@
+name: ""
+description: ""
+version: "0.1.0"
+domain: ""
+task_type: ""
+tags: []
+inputs: []
+outputs: []
+constraints: []
+success_criteria: []
+source: "original"
+source_url: ""
+license: ""
+created_at: ""
+updated_at: ""
+persistence: "REUSABLE"
+notes: ""
