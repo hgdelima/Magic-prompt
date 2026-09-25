@@ -4,7 +4,7 @@ description: Research a topic using current, trustworthy sources and separate ve
 version: "0.1.0"
 domain: research
 task_type: research
- tags: [research, sources, web, verification]
+tags: [research, sources, web, verification]
 inputs: [topic, scope]
 outputs: [synthesis, sources, uncertainties]
 constraints: [prefer primary sources, distinguish fact from inference, do not invent citations]
